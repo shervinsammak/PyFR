@@ -1,0 +1,24 @@
+# Python crud
+*.pyc
+*.pyo
+
+# Distfiles related goo
+MANIFEST
+dist/
+build/
+
+# Documentation
+doc/build/
+
+# PyFR mesh and solution files
+*.pyfrs
+*.pyfrm
+
+# Mac OS X junk
+.DS_Store
+
+# Backup files
+*~
+
+# Hidden files
+.*
